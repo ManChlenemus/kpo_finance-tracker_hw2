@@ -1,0 +1,11 @@
+{
+  "accounts": [
+    { "id": "1d8b0e5e-e4de-4c2a-b67f-22f3c0a5c4d3", "name": "Карта Сбер", "balance": 50000.00 }
+  ],
+  "categories": [
+    { "id": "c1f7b1e0-0b3f-4e9a-8a6a-8d7b3e0c1b2a", "name": "Зарплата", "type": "INCOME" }
+  ],
+  "operations": [
+    { "id": "f2a8e3c1-1b9d-4f8a-9c6d-0d8b5a3e1c0b", "type": "INCOME", "amount": 50000.00, "date": "2025-11-10", "description": "Аванс", "accountId": "1d8b0e5e-e4de-4c2a-b67f-22f3c0a5c4d3", "categoryId": "c1f7b1e0-0b3f-4e9a-8a6a-8d7b3e0c1b2a" }
+  ]
+}

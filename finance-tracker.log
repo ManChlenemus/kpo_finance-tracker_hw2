@@ -1,0 +1,35 @@
+1762711327204:help
+1762711390900:quit
+1762711413103:helphelp
+1762711417409:help
+1762711574738:create-account --name "���� ����" --balance 10000
+1762711756617:help
+1762711804670:create-account --name "Карта Сбер" --balance 10000
+1762712044472:help
+1762712061007:$OutputEncoding | Format-List
+1762712220592:help
+1762712372717:руд
+1762712376330:help
+1762712413880:q
+1762712418354:quit
+1762713371957:list-accounts
+1762713388842:quit
+1762714369845:shell:> import-data --path "C:\\Users\\georg\\IdeaProjects\\finance-tracker\\data.json"
+1762714378588:import-data --path "C:\\Users\\georg\\IdeaProjects\\finance-tracker\\data.json"
+1762714392477:shell:> list-accounts
+1762714392482:shell:> list-categories
+1762714402538:shell:> list-operationslist-accounts
+1762714414270:list-accounts
+1762714729060:help
+1762714911195:quit
+1762714969811:help
+1762714973044:quit
+1762715015370:help
+1762715363912:add-operation --account-id <ID_счета> --category-id <ID_категории> --amount -100 --type EXPENSE
+1762717181696:run-analytics
+1762717244436:run-analytics --start-date 2025-01-01 --end-date 2025-12-31
+1762717302742:run-analustics --startdate 2025-01-01
+1762717331161:run-analytics --startdate 2025-01-01
+1762717653272:run-analytics --start-date 2025-01-01 --end-date 2025-12-31
+1762717738633:help
+1762718073740:create-account --name "���� ����-�����" --balance 10000
